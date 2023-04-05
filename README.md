@@ -31,12 +31,11 @@ Here are some ideas to get you started:
   
 </br>
 
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 </br>
 
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqliteL&color=336791)
-
 ![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </br>
