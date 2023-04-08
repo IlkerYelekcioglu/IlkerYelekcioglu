@@ -1,7 +1,6 @@
 ### Hi there I'm İlker. 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java and Javascript.
 - 🌱 I’m currently learning Python and Android
