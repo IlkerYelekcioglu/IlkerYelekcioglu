@@ -10,9 +10,7 @@
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/ilker-yelekcioglu/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logoo=linkedin&logoColor=white)
-<a href = "https://www.hackerrank.com/yelekciogluilke1/">![](![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-
-)
+<a href = "https://www.hackerrank.com/yelekciogluilke1/">![](![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white))
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 💼 Technical Skills
