@@ -13,7 +13,8 @@
 
 <a href="https://www.medium.com/@yelekciogluilker/">![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-<a href = "https://www.hackerrank.com/yelekciogluilke1/">![]([Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white))
+<a href = "https://www.hackerrank.com/yelekciogluilke1/">[![]([Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white))](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+)
 
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
