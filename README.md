@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=white)
 ![](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   
 </br>
 
